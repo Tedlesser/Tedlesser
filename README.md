@@ -1,5 +1,7 @@
 Hi 👋, I'm Theodore Lesser
 A passionate frontend developer from Airmont, NY.
+
+
 🔭 I’m currently working on Around The World Gallery Project
 
 🌱 I’m currently learning Javascript, HTML5 and CSS3
