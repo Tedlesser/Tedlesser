@@ -11,7 +11,7 @@ A passionate frontend developer from Airmont, NY.
 📫 You could best reach me at my email ted.a.lesser@gmail.com or linked-in @ https://www.linkedin.com/in/tedlesser/
 
 Connect with me:
-ricardo vega
+Theodore Lesser
 
 
 <!---
